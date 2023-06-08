@@ -16,6 +16,6 @@ public class Palindrome {
                 }
             }
         }
-        System.out.println("longest is "+longest);
+        System.out.println("longest  "+longest);
     }
     }
